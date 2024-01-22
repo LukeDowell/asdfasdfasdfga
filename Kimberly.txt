@@ -1,0 +1,123 @@
+Kimberly
+
+normies
+--------------
+c.lp 4f
+c.lk 5f low
+s.lk 5f
+
+s.mk 8f longest range normal, special cancelable
+c.mk 7f low, cancel into target combos, +1 on block
+
+s.hk 12f +2 on block, whiffs on crouching w/ distance
+s.hp 9f drains drive gauge 
+
+Meaty setup after air tatsu -> qcf k > p -> cr mp
+
+
+specials
+--------------
+qcb p teleport, gets around fireballs, OD version tracks from farther and sets up high/low
+
+
+combos
+--------------
+LIGHT CONFIRMS
+c.lp, c.lp, s.lp-mp-d.hp-d.hk (1704 dmg, side switch)
+c.lk, c.lp, c.lp, qcf lp (1206 dmg, +3)
+c.mp, s.mp-hp, qcf k > k (2174 dmg)
+c.mk, s.lp-mp-hp-hk
+
+MIDSCREEN
+b.hk, c.lp, qcb hk (1936 dmg, overhead) 
+s.hk, s.mp-hp, qcf mp
+qcf kk > p, qcf k > lk, qcb hk (2439 dmg)
+s.mp-hp, qcf kk, k, qcf k > lk, qcf lp (2502 dmg)
+OD c.mk, s.hp, qcf p, qcf p (air)
+
+CORNER
+(corner, DI stun) c.hp, qcf k > k, hcb hk (2628 dmg)
+
+COUNTERHIT
+ch c.lp, s.mp, qcf k > k
+
+DRIVE RUSH
+s.lk dr c.lp, c.mp, s.mp-hp, qcf k > mk, qcb mk (corner)
+s.mk dr c.mp, s.hp, qcf hp, j.qcf p (air)
+s.mk dr s.hk, c.mp, s.mp > hp
+(corner) s.mk dr s.hk, c.hp, qcf hp, dr, s.lp > mp > d.hp > hk, qcf p (2425 dmg, 4 bar)
+c.mp, c.mp, dr c.mp, s.hp, j.mp, j.qcb hk (air)
+
+PUNISH COUNTER
+pc s.lp, s.hp, qcf hp, mp (air), qcb kh (air)
+pc s.mk, qcf hp, j.mp, j.qcf p (air) (2340 dmg)
+pc s.mk, qcf hp, j.mp, j.qcb hk (air) (2241 dmg)
+pc s.hp, qcf k > p, s.hk, s.mp -> hp, qcb hk (2772 dmg)
+pc s.hp, qcb p, s.hp, qcf hp, j.qcf p (air) (2826 dmg)
+
+LVL 1
+s.hp, qcf hp dr s.lp-mp-d.hp-hk, lvl 1
+
+LVL 2
+s.hp, qcf hp, j.mp j.qcb kk (air), lvl 2 (air) (3775 damage)
+... s.mp-hp, qcf kk > hk lvl 2
+
+LVL 3
+c.lp, c.lp, c.lp, qcf lp, lvl 3 (3296 dmg)
+s.hp, qcf hp, j.mp j.qcb kk (air), lvl 3 (corner) (4475 dmg)
+... s.mp-hp, qcf kk > hk lvl 3
+
+
+interactions and setups
+--------------
+
+INTERACTIONS
+
+
+MEATIES
+
+
+BOMB
+low can after:
+
+
+medium / heavy can after:
+s.mp > hk, qcf k > mk
+s.lp > mp > d.hp > hk
+s.lp > mp > hp 
+
+bomb setup > throw, (bomb explode) qcf u+f, qcf pp, f+hk, j.mp, qcf mp
+bomb setup > c.lk, c.lp, c.lp, qcf lp, (bomb explode) qcf u+f, qcf pp, f+hk, j.mp, qcf mp
+bomb setup > s.mp > hp, qcb p, (bomb explode) whatever ender (whiff bait)
+bomb setup > c.lp, c.lp, c.lp, qcf k > hk (overhead)
+bomb setup > c.mk, c.lp, b.hk (bomb explode) DR, c.hp, qcf k > lk, qcf p (air) (under + overhead)
+
+(corner) juggle, s.lp > mp > d.hp > hk, medium can, s.mp, DI is a safe DI setup 
+
+references
+-------------
+sonicfox (jp) vs young gouki (kimberly) https://www.youtube.com/watch?v=M6Euf6o7M7c
+learn kimberly in 5 minutes https://www.youtube.com/watch?v=nDiGM0-hGYw
+Jaccy vs Hikaru https://www.youtube.com/watch?v=UBnG543QF-I
+random kimberly setplay video https://www.youtube.com/watch?v=LHCFAKlgpww
+
+glossary for the weebs:
+-------------
+PC = punish counter
+DR = drive rush
+DI = drive impact
+CH = counter hit
+p = punch
+k = kick
+l/m/h = light/medium/heavy, so "lp" = "light punch"
+pp/kk = two punches or two kicks for OD moves and some unique moves
+tn = tiger knee = doing a quarter circle or half circle motion, and continuing the motion to point "up front or up back", to get the move to come out instantly in the air
+
+b = back = 4
+d = down = 2
+db = down back = 1
+qcf = quarter circle forward = 236
+qcb = quarter circle back = 214
+hcb = half circle back = 63214
+qcf = half circle forward = 41236
+

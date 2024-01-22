@@ -1,0 +1,82 @@
+ZANGIEF 
+
+
+normies
+--------------
+
+b.hp armor move, big range, moves you forward. mix up charges to avoid DI reaction
+
+
+specials
+--------------
+
+
+combos
+--------------
+LIGHT CONFIRMS
+c.lk, c.lp, c.lp, lp (1040 dmg)
+c.lk, c.lp, pp (1480 dmg)
+c.lk, c.lp, ppp (1720 dmg)
+c.lk, c.lp, s.lp, DR, c.lp, c.mp, pp (1878 dmg, 3 bar)
+
+MIDSCREEN
+c.mp, DR, s.mp > mp > mp (2234 dmg)
+
+JUMPIN
+jd.hp, c.mp, pp (2460 dmg)
+j.hp, f.hp, pp (2660 dmg)
+j.hp, f.hp, ppp (2900 dmg, 2 bar)
+j.hp, f.hp, qcf qcf p (4228 dmg, lvl 2 super spender)
+
+CORNER
+DI guard break, df.mp, pp (1600 dmg)
+DI guard break, c.mp, instant air drive spd (2720 dmg)
+DI stun, heavy spd 
+PC f.hk, df.mp, ppp, instant air drive spd (5360 dmg)
+j.hp, f.hp, qcf qcf p (hold), df.mp, ppp, instant air drive spd (5240 dmg)
+
+COUNTER
+CH s.mp > mp > mp (2160 dmg, confirmable)
+
+PUNISH COUNTER
+PC f.hk, df.mp, pp (3320 dmg)
+PC f.hk, df.mp, qcf qcf k (4460 dmg, lvl 1 super spender)
+PC j.hk (charge), df.mp, pp (3560 dmg)
+PC s.hk, instant air drive spd (3900 dmg)
+PC j.hk (charge), instant air drive spd (4500 dmg)
+
+other stuff
+--------------
+
+INTERACTIONS
+
+MEATIES
+
+
+references
+-------------
+meno zangief basic combos https://www.youtube.com/watch?v=kHw_S8EIn8A
+
+
+glossary for the weebs:
+-------------
+PC = punish counter
+DR = drive rush
+DI = drive impact
+CH = counter hit
+
+p = punch
+k = kick
+l/m/h = light/medium/heavy, so "lp" = "light punch"
+pp/kk = two punches or two kicks for OD moves and some unique moves
+dp = dragon punch = forward, neutral, down, down-forward motion = 6523
+tn = tiger knee = doing a quarter circle or half circle motion, and continuing the motion to point "up front or up back", to get the move to come out instantly in the air
+spd = spinning pile driver motion = half circle back, neutral, up forward = 63214N9
+
+b = back = 4
+d = down = 2
+db = down back = 1
+qcf = quarter circle forward = 236
+qcb = quarter circle back = 214
+hcb = half circle back = 63214
+qcf = half circle forward = 41236

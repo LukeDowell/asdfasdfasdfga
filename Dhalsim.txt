@@ -1,0 +1,122 @@
+Stretchy Boi
+
+normies
+--------------
+s.lp, 4f start, 4f on hit
+c.lp, 5f start, longer range than s.lp
+
+d.lk slide, 4f start, -5f ON HIT at point blank, +1f max range
+db.lk, 5f start, +1f on hit
+
+b.mp, 8f start, -3 on block, solid pushback for follow up, special cancellable, great anti air
+b.mk, 7f start, 0f on block, special cancellable
+
+from instant air teleport or IATP (up and immediately yoga teleport)
+
+j.lp is +1 on block, 9-8f on hit, whiffs crouchers
+j.lk is +3 on block, 6f on hit, hits crouchers
+
+
+specials
+--------------
+Yoga Fire: qcf p, can hold to add a hit to the fireball and mix up timing. OD instantly gives held fireball
+Yoga Arch: qcf k, excellent for covering the air and allowing teleport approaches. Strength determines how far the arch goes. OD will bounce and follow opponent, even behind them
+Yoga Flame: hcb p, OD throws opponent in the air, good for breaking DI, using as a meaty, and combo ender 
+Yoga Blast: hcb k, knocks down, combo ender, short range
+Yoga Comet: jump hcb p, excellent zoning tool, OD allows followups after, like teleports or normals
+Yoga Float: jump d+kk, classic dhalsim floaty boi tool. Too many uses to list here
+Yoga Teleport: forward or back ppp or kkk, ppp goes behind them, kkk goes in front, forward teleports to opponent, back teleports away. Some invincibility frames, but unsafe to just raw teleport without fireball cover
+
+
+combos
+--------------
+LIGHT CONFIRMS
+db.lk, c.lp, qcf hp (950 dmg)
+db.lk, c.lp, hcb hk (1430 dmg)
+s.lp, c.lp, qcf hp (1050 dmg)
+s.lp, c.lp, qcf pp (1370 dmg)
+s.lp, c.lp, hcb hk (1530 dmg)
+
+CORNER
+c.lk, c.lp, qcf pp, db.hk (1900 dmg)
+c.lk, c.lp, hcb hk, db.hk (2060 dmg, need to be point blank)
+s.lp, c.lp, qcf pp, db.hk (2000 dmg)
+s.lp, c.lp, hcb hk, db.hk (2160 dmg, need to be point blank)
+b.mk, hcb hk, db.hk (2520 dmg)
+b.mp, hcb hk, db.hk (2620 dmg)
+
+JUMPING / AFTER AIR TELEPORT
+j.lk, c.lp, qcf p (1080 dmg)
+j.lk, c.lp, hcb hk (1560 dmg)
+j.lp, b.mk, hcb mp (1620 dmg, whiffs on crouchers)
+j.lp, b.mp, hcb hk (2020 dmg, whiffs on crouchers)
+j.hk, b.mk, hcb mp (1910 dmg)
+j.hp, s.mk (1280 dmg, combos from very far)
+j.hp, db.hp, hcb hp (2280 dmg)
+
+DRIVE RUSH
+s.lk, DR, c.lp, b.mp, hcb pp, s.hk, qcf qcf lp (3372 dmg)
+s.lp, c.lp, DR, c.lp, b.mp, hcb hk (1799 dmg)
+c.mp, DR, s.lp, b.mk, hcb mp (1793 dmg, s.lp will whiff at max range)
+db.hp, DR, db.hp, b.mk, hcb pp, s.hk (2768 dmg)
+antiair close-ish b.hp, DR, b.mk, hcb hk (2264 dmg)
+
+PUNISH COUNTER
+PC s.lp, b.mk, hcb pp, s.hk (2100 dmg)
+PC s.hk, s.hk (1760 dmg)
+PC s.hk, DR, c.mk, b.mk, hcb mp (2323 dmg, need to be far for dr c.mk to hit)
+PC s.hk, DR, db.hp, b.mk, hcb hp (2456 dmg)
+PC DI, b.hp, hcb hp (2520 dmg, 1 bar)
+
+LVL 1
+c.mp, dr, b.mk, hcb pp, qcf qcf hp (2854 dmg, 5 drive bar lel)
+j.hp, db.hp, hcb pp, qcf qcf hp (3224 dmg)
+db.hp, hcb pp, s.hk, qcf qcf lp (3472 dmg)
+
+LVL 2
+
+LVL 3
+b.mk, hcb k, qcf qcf k (4600 dmg)
+c.mp, dr, b.mk, hcb pp, 
+
+
+interactions and setups
+--------------
+
+INTERACTIONS
+in combos ending with qcf p, prefer hp, as it is faster and will hit at larger ranges
+
+
+MEATIES
+midscreen: forward throw, DR c.mk, CH db.hp, db.hp, b.mk, hcb pp
+corner: ...hcb pp, c.mk, b.mk (+3)
+corner: forward throw, walk up b.mk (beats jabs and throws)
+corner: light confirm ending in qcf pp, d.lk, b.mk
+corner: after db.hk ender, heavy yoga flame will give +4f, setting you up for following combo
+corner: c.lp, CH qcf lp, db.hp, qcf pp, c.mp
+corner: forward throw, hcb mp, b.mk, qcf hk, b.mk, DR, db.hp, qcf hk, b.mk 
+
+references
+-------------
+mistahcrimson fucking people up https://www.youtube.com/watch?v=A6BGuLKj7YQ
+meaty stuff https://www.youtube.com/watch?v=jzfZ7vnh3cY
+
+
+glossary for the weebs:
+-------------
+PC = punish counter
+DR = drive rush
+DI = drive impact
+CH = counter hit
+p = punch
+k = kick
+l/m/h = light/medium/heavy, so "lp" = "light punch"
+pp/kk = two punches or two kicks for OD moves and some unique moves
+
+b = back = 4
+d = down = 2
+db = down back = 1
+qcf = quarter circle forward = 236
+qcb = quarter circle back = 214
+hcb = half circle back = 63214
+qcf = half circle forward = 41236

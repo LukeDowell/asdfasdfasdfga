@@ -1,0 +1,176 @@
+Chun-Li
+
+
+normies
+--------------
+s.lp 4f long as fuck
+c.lp 4f stubby, cancels into spinning bird kick
+
+s.lk 5f long range, buffer into drive rush for big dam
+c.lk 4f nice low check
+
+st.mp 5f +1 on block
+c.mp 6f links from a CH light punch, and from a st.mp, mostly combo filler
+b or f.mp 7f thic poke, wide cancel window, main tool
+j.mp good air-to-air, can go into air legs 
+
+st.mk 7f anti air, special cancellable
+c.mk 7f, low, big range, special cancellable, can buffer into DR
+j.mk crossup jump attack, on hit combos into s.mp
+jd.mk air stomp, used all the time in combos, and for sneaky jump ins to cancel into legs
+ 
+s.hp 13f, high risk high reward, not as good as it was before, great punish counter
+specials
+c.hp 11f, huge cancel window, -2 on block, long active frames 
+b.hp 8f, great counter poke, useful meaty tool, good damage, natural qcf hk combo
+qf.hp 21f overhead, -2 on block, can be cancelled into stance
+j.hp far range forward 
+
+
+s.hk 14f giga dam anti air, high damage combo route, bad neutral tool
+c.hk 9f -7 on block, can't be swept in return, moves you forward
+f.hk 16f airborne, beats throws and crouch, big dam, extreme recovery on whiff
+df.hk crossup gimmick, can be parried 
+
+specials
+--------------
+kikoken - good fireball, slow enough to let you DR behind it, unsafe beware at wall
+lighting legs - light leaves you +3 in range, medium is a reliable combo filler, heavy knockdown leads to good oki
+spinning bird kick - sbk - can get light from lights, medium from mediums, and heavy from heavies. great setup tool, drive is combo tool
+upkicks - dd k - unfortunate input, main anti air, 
+
+
+combos
+--------------
+LIGHT CONFIRMS 
+c.lk, c.lp, s.lp, hp kikoken (1130 dmg, tight charge window)
+c.lk, c.lp, lk sbk (1269 dmg)
+c.lk, s.lp, s.lp, lk legs (1270 dmg, +3)
+s.lp, s.lp, s.lp, lk legs (1370 dmg)
+c.lk, c.lp, s.lp, lk sbk (1409 dmg, you hit the 3rd s.lp "on the way" to doing the up motion for the sbk)
+c.lk, s.lp, dd hk (1430 dmg)
+c.lk, s.lp, s.lp, OD legs (1690 dmg, 2 bar)
+c.lk, s.lp, s.lp, DR, s.lp, b.hp, ss lk, mk sbk (1913 dmg, 3 bar)
+c.lk, s.lp, s.lp, DR, s.lp, b.hp, ss hk, jump cancel, jd.mk, j.mp, hk legs (1951 dmg, 3 bar)
+(corner) c.lk, c.lk, s.lp, od kikoken, c.mk, mk sbk (2080 dmg, 2 bar)
+
+
+MIDSCREEN
+s.mp, c.mp, mk sbk (2160 dmg)
+b/f.mp, lk legs (1500 dmg, +3)
+c.hp, hk legs (1900 dmg)
+c.hp, dd hk (2100 dmg)
+c.hp, hk sbk (2300 dmg)
+c.hp, ss mk, mk sbk 
+c.hp, hk legs, dd hk (2860 dmg)
+c.hp, hk legs, qcf qcf hp (3260 dmg, lvl 1 super)
+b.hp, ss lk, mk sbk (2260 dmg)
+j.hk, b.hp, ss hk, jump cancel, jd.mk, j.mp, jhk legs (3100 dmg)
+j.hk, s.mp, c.mp, OD sbk, dr, s.lp, hk legs, dd hk (3421 dmg, 3 bar)
+df.hk, c.mp, mk sbk (2360 dmg)
+c.mk, DR, s.mp, b.hp, ss lk, mk sbk (2239 dmg, 3 bar)
+
+
+CORNER
+j.hk, b.hp, hk legs, dd hk (3240 dmg)
+j.hk, s.mp, d.mp, OD sbk, lk legs, dd hk (3520 dmg, 2 bar)
+ss hp, OD sbk, lk legs, dd hk (3180 dmg, 2 bar)
+PC f.hk, b.hp, hk legs, dd hk
+DR f.hk, s.mp, c.mp, OD sbk, lk legs, dd hk (3680 dmg, 3 bar)
+DI stun, j.hk, s.hk, ss mk, mk sbk, lk legs, dd hk 
+DI wall, f.hk, ss hk, jump cancel, d.mk, d.mk, j.hp > hp, qcb qcb k (delay the second d.mk a bit)
+DI PC, s.hk, ss mk, OD kikoken, s.mp, c.mp, qcf qcf p (, 3 bar, 1 super)
+OD SBK, DR, s.lp, mk legs, dd.hk 
+
+
+COUNTER
+CH s.lp, c.mk, mk legs (1530 dmg)
+CH s.lp, c.mk, DR, s.lp, b.hp, ss lk, mk sbk (2245 dmg, 3 bar)
+CH c.mp, c.mp, ...
+CH s.mp, c.mp ...
+CH s.mp, c.mk, ...
+CH f.hp, ss lk, mk sbk (confirmable, the mix is you can do a ss lp on block or they can try and punish the stance transition but it's hard)
+(corner) CH qcb hk, b.hp, ss lk, OD kikoken, c.mk, mk sbk (3150 dmg, 2 bar)
+(anti air) s.hk, ss mk, dd hk (2840 dmg, delay the ss mk a bit)
+
+
+PUNISH COUNTER
+PC qcb hk, b.hp, dd.hk (fat damage, go far, meterless)
+PC f.hp, ss lk, OD sbk, DR, s.lp, ss mk, dd hk
+PC s.hk, ss mk, mk sbk 
+PC DI, s.hk, ss mk, OD kikoken, s.lk, DR, s.lp, b.hp, ss hk, jd.mk, jd.mk, j.hp, j.hp, SA2, j.hp (whiff), j.hp 
+DR PC b.hp, qcb hk, c.mp, mk sbk
+DR PC b.hp, qcb hk, c.mp, OD sbk, DR, s.lp, hk legs, dd hk (4181 dmg, 4 bar)
+(corner) PC qcb hk, b.hp, hk legs, instant jd.mk, jd.mk, light air legs (also meterless fat damage, instant jd.mk is hard)
+(corner) DR PC b.hp, hk legs, c.mp, DR, b.hp, ss mk, OD kikoken, s.mp, c.mp, OD sbk, mk legs, qcb qcb k (6650, lvl 3 super, full drive bar, god speed)
+(corner) PC s.hk, ss mk, OD kikoken, s.mp, c.mp, OD sbk, lk legs, dd hk
+
+
+DRIVE RUSH
+DR c.mk, ss lk, mk sbk 
+DR c.mk, ss lk, hp kikoken
+DR df.hp, s.mp, c.mp, mk sbk 
+DR df.hp, s.mp, c.mp, OD sbk, DR, s.lp, ss mk, dd.hk (3337 dmg, 4 bar)
+
+other stuff
+--------------
+
+NEUTRAL
+f.hp, c.mk, s.hk are all good moves to buffer into stance
+lp is the only stance move that is a true blockstring in most cases
+kikokens are unsafe at the wall, except for OD
+kikoken can be a useful meaty tool at the corner, can charge during sbk and other enders
+after SBK you should be able to dash or walk up and do a strike throw mixup but it's tight and manually timed
+
+
+MEATIES
+you can walk up after medium and light spinning bird kicks and do a strike / throw mixup
+mk sbk, DI whiff s.lp, b.hp will catch everything except for a reversal
+mk sbk, DI df.hp will hit both recovery options
+hk sbk, hk hazanshu will hit meaty
+d.hk, d.mp (whiff), b.hp (+9 / +3)
+d.hk, dash, s.lp (whiff), b.hp 
+
+SAFE JUMPS
+(corner) OD sbk, mk legs, jump and delay jd.mk into j.hk. Make sure you are ready for blocking the reversal after jd.mk
+(corner) OD sbk, instant jd.mk, jd.mk, j.hp > hp into j.hk
+
+
+INTERACTIONS
+some SA2 enders:
+ - delay j.mp, land and jump immediately, d.mk, j.mp, mk legs (style)
+ - j.mp, delay 2nd j.mp, immediate j.hp, j.hp (a little finicky but doable, combos into super in corner)
+ - j.mp, hk sbk (good dam, corner carry, the j.mp should hit right after the peak of chun's jump arc, start charging immediately after jump cancelling)
+
+
+references
+-------------
+MC guide https://www.youtube.com/watch?v=Av7TBL1x6nA
+Meno combos https://www.youtube.com/watch?v=5bbSyIBp5ao
+Sako (chun) vs Tokido (luke) https://www.youtube.com/watch?v=Ya34J1fKDOU
+Allegedly practical combos, some interesting setups off of super 2 https://www.youtube.com/watch?v=bjfLSWCPDeY
+Reversal Punish https://twitter.com/SeaLeafDojo/status/1668340217282199552
+Safe Jumps https://www.youtube.com/watch?v=jJ7rL1YjKfM&t=1s
+
+glossary:
+-------------
+PC = punish counter
+DR = drive rush
+DI = drive impact
+CH = counter hit
+
+p = punch
+k = kick
+l/m/h = light/medium/heavy, so "lp" = "light punch"
+j = jumping
+pp/kk = two punches or two kicks for OD moves and some unique moves
+sbk = spinning bird kick, charge move that holds down, then presses up and a kick
+ss = serenity stance 
+
+b = back = 4
+d = down = 2
+db = down back = 1
+qcf = quarter circle forward = 236
+qcb = quarter circle back = 214
+hcb = half circle back = 63214
+qcf = half circle forward = 41236

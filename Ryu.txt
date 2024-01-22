@@ -1,0 +1,102 @@
+Ryu
+
+problems
+--------------
+what to do with ch.slk
+
+
+
+normies
+--------------
+
+
+specials
+--------------
+
+
+combos
+--------------
+LIGHT CONFIRMS
+c.lk, c.lp, s.lp, qcb lk (1270 dmg, good for continuing pressure in neutral)
+c.lk, c.lp, s.lp, hp dp (1690 dmg)
+c.lk, c.lp, c.lp, DR, s.lp, s.lp, s.lp, DR, s.lp, s.lp, s.lp, hp dp, qcf qcf k (3506 dmg and your whole drive bar ^^)
+
+
+MIDSCREEN
+s.mp, c.mp, qcf p (1680 dmg)
+s.mp, c.mp, qcb mp (1840 dmg)
+s.mp, c.mp, qcb mk (1920 dmg, wall carry)
+s.mp, c.mp, qcb mk (2000 dmg, side switch)
+s.mp, c.mp, qcf mk (2080 dmg, creates space for denjin)
+s.mp, c.mp, hp dp (2320 dmg)
+s.mp, c.mp, DR, s.hk, c.hp, hp dp (2998 dmg)
+
+
+CORNER
+s.mp, c.mp, qcb kk, hp dp (2980 dmg)
+s.mp, b.hp, qcf hk, lp dp (3210 dmg)
+s.mp, c.mp, qcb kk, DR, s.mp, qcb mp, hp dp (3350 dmg)
+s.mp, c.mp, DR, s.mp, b.hp, qcf hk, lp dp, qcf qcf hk (5205 dmg)
+denjin s.mp, c.mp, qcb mp, qcb lp, mp dp (3050 dmg)
+denjin s.mp, c.mp, qcb kk, DR, s.mp, qcb mp, j.mp, qcb kk, qcf qcf k (5419 dmg, looks neat)
+denjin s.mp, c.mp, qcb pp, qcb qcb p (charge), hp dp (4620 dmg)
+denjin DI wallsplat c.hp, qcb hp, j.mp, qcb hk (2660 dmg)
+
+
+COUNTER
+CH s.lp or c.lp, c.mp, 
+CH s.mp, c.mk xx special
+CH c.mp, c.mp xx special
+CH f.hk, s.lp, hp dp (2380 dmg)
+CH b.hp, qcb hp xx special
+
+
+DRIVE RUSH
+after DR s.hp, b.hp, ender is gonna be the fattest damage without denjin
+DR s.mp, c.mp, DR s.hk, 
+DR c.mk, qcb hp xx ender
+DR f.mp, c.mp, xx ender
+DR f.mp, c.mp, xx ender
+DR c.mk, DR, s.hp, b.hp, hp dp
+
+
+PUNISH COUNTER
+s.mp, b.mp, hp dp
+DI, f.hp, c.mp, qcb mk
+
+
+other stuff
+--------------
+
+INTERACTIONS
+in the corner, ex tatsu to qcb lp into immediate j.mk is a safe jump
+
+MEATIES
+after an hp dp, immediate DR gives you a high/low mixup with c.mk and f.mp
+
+
+references
+-------------
+bafael the god https://www.youtube.com/watch?v=IXXw2oBLYLo
+
+
+glossary for the weebs:
+-------------
+PC = punish counter
+DR = drive rush
+DI = drive impact
+CH = counter hit
+
+p = punch
+k = kick
+l/m/h = light/medium/heavy, so "lp" = "light punch"
+pp/kk = two punches or two kicks for OD moves and some unique moves
+dp = dragon punch = forward, neutral, down, down-forward motion = 6523
+
+b = back = 4
+d = down = 2
+db = down back = 1
+qcf = quarter circle forward = 236
+qcb = quarter circle back = 214
+hcb = half circle back = 63214
+qcf = half circle forward = 41236

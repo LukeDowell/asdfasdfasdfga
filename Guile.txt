@@ -1,0 +1,79 @@
+Guile
+
+
+normies
+--------------
+
+specials
+--------------
+
+combos
+--------------
+
+c.lk, c.lp, s.lk, sonic boom (1130 dmg)
+c.lp, c.lp, s.lp, hk flash kick (1650 dmg)
+c.lk, c.lp, s.lk, hk flash kick (1690 dmg)
+
+s.mp > b.hp, hp sa1, od flash kick (3760 dmg, 1 super, 2 drive)
+s.mp, c.mp, hk flash kick, sa3 (4920 dmg, 3 super)
+
+pc c.mp, s.hp, DR xx ...
+pc f.hp, s.mp, c.mp > c.mp, hk flash kick (2980 dmg)
+
+pc di, df.hk, hk flash kick (2740 dmg)
+pc di, df.hk, hp sa1, od flash kick (3800 dmg, 1 super, 2 drive)
+corner pc f.hk, d.hk > df.hk, hk flash kick, lp sa1 (3890 dmg, 1 super)
+
+dr c.mk, c.mp > c.mp, hk flash kick (1820 dmg, 1 drive)
+dr f.mp, c.mp > c.mp, hk flash kick (2400 dmg, 1 drive)
+
+setups and neutral
+--------------
+
+MEATIES
+lk flash kick, normal rise you can dash and get a strike / throw / shimmy
+lk flash kick, back rise you can get c.mk meaty 
+lk flash kick, DR gives you a f.mp / c.mk mixup
+hk flash kick, mp boom meaties on normal 
+hk flash kick, lp blade in corner 
+
+forward throw, lp boom
+back throw, lp boom 
+air forward throw, hp boom 
+corner you can DR to do whatever after a throw
+corner air forward throw, lp boom is +11
+
+SAFE JUMPS
+hp sa1, whiff c.mk, j.hk 
+
+
+INTERACTIONS
+after a mid range slow boom hits, you can combo by following the boom with a DR move
+
+
+references
+-------------
+Meno obviously https://www.youtube.com/watch?v=OfLIYXmw3ic
+Guile oki guide https://www.youtube.com/watch?v=Gi0dHykM784
+
+
+glossary:
+-------------
+PC = punish counter
+DR = drive rush
+DI = drive impact
+CH = counter hit
+
+p = punch
+k = kick
+l/m/h = light/medium/heavy, so "lp" = "light punch"
+j = jumping
+pp/kk = two punches or two kicks for OD moves and some unique moves
+
+b = back = 4
+d = down = 2
+db = down back = 1
+qcf = quarter circle forward = 236
+qcb = quarter circle back = 214
+hcb = half circle back = 63214
+qcf = half circle forward = 41236

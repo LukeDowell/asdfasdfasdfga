@@ -1,0 +1,71 @@
+AKI
+
+
+normies
+--------------
+
+
+specials
+--------------
+
+
+combos
+--------------
+
+
+LIGHT CONFIRMS
+
+
+MIDSCREEN
+
+
+CORNER
+
+
+COUNTER
+
+
+PUNISH COUNTER
+
+
+DRIVE RUSH
+
+
+other stuff
+--------------
+
+NEUTRAL
+
+
+MEATIES
+
+
+SAFE JUMPS
+
+
+INTERACTIONS
+
+
+references
+-------------
+
+
+glossary:
+-------------
+PC = punish counter
+DR = drive rush
+DI = drive impact
+CH = counter hit
+
+p = punch
+k = kick
+l/m/h = light/medium/heavy, so "lp" = "light punch"
+j = jumping
+
+b = back = 4
+d = down = 2
+db = down back = 1
+qcf = quarter circle forward = 236
+qcb = quarter circle back = 214
+hcb = half circle back = 63214
+qcf = half circle forward = 41236

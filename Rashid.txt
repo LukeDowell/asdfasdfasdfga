@@ -1,0 +1,80 @@
+Rashid
+
+
+normies
+--------------
+
+
+specials
+--------------
+
+
+combos
+--------------
+LIGHT CONFIRMS
+c.lk, c.lp, s.lp, qcf mp (1060 dmg)
+s.lp, s.lp, s.lp, qcf lp (1360 dmg)
+s.lp, s.lp, DR, s.lp, s.mk, s.mp, qcb mk (2040 dmg, 2 drive bar)
+
+MIDSCREEN
+
+
+CORNER
+...TC, qcb hk, f.k, k, qcf hp 
+(stun) qcf [k], qcf pp, j.qcb k > hk, f.mp, qcb pp, qcf pp, j.qcb k, j.d hp, SA 3 
+
+COUNTER
+s.lp, s.mp, qcb mk
+c.lp, s.mp, qcf mp (1540 dmg)
+
+PUNISH COUNTER
+s.mp, c.mk, qcb lk (2100 dmg)
+s.hk, qcf hp (2160 dmg)
+s.hp, qcb hk (2450 dmg)
+c.hp, s.hp, qcb mk (2630 dmg, c.hp needs to be very close)
+
+
+
+DRIVE RUSH
+DR c.lk, TC...
+DR f.hk, s.mp, qcb mk (2290 dmg)
+
+other stuff
+--------------
+
+NEUTRAL
+
+
+MEATIES
+(corner, after qcb lk) whiff s.mk, f.hp, s.lk...
+
+SAFE JUMPS
+
+
+INTERACTIONS
+
+
+references
+-------------
+Rashid in 5 minutes https://www.youtube.com/watch?v=L44JAqYrXok
+
+
+glossary:
+-------------
+PC = punish counter
+DR = drive rush
+DI = drive impact
+CH = counter hit
+
+p = punch
+k = kick
+l/m/h = light/medium/heavy, so "lp" = "light punch"
+j = jumping
+
+b = back = 4
+d = down = 2
+db = down back = 1
+qcf = quarter circle forward = 236
+qcb = quarter circle back = 214
+hcb = half circle back = 63214
+qcf = half circle forward = 41236
